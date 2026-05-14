@@ -12,7 +12,7 @@
 
 <kbd>Hobbies : anime, music, learning Japanese, and randomly obsessing over new tech for hours. </kbd>
 
- <blockquote>Still learning, still building, still figuring things out — but every project, every bug, and every late-night idea gets me one step closer to becoming the developer I want to be.</blockquote>
+ <blockquote>Still learning, still building, still figuring things out — but every project, every bug gets me one step closer to becoming the developer I want to be.</blockquote>
 
 
 
